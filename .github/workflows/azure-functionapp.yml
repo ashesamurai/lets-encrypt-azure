@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: quitenice-letsencrypt-fn
+  ResourceGroup: qn-letsencrypt-fn
 jobs:
   build:
     runs-on: ubuntu-latest
