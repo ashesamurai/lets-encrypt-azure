@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: letsencrypt-renewal
+  ResourceGroup: letsencrypt-rt
 jobs:
   build:
     runs-on: ubuntu-latest
